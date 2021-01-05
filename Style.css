@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 35px;
+}
+.name-highlight{
+    color: orange;
+}
+.top-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.top-part img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
